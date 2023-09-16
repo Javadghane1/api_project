@@ -7,7 +7,7 @@ a = 'digikala.com'
 b = 'avandprinter.com'
 c = 'khaneyeprinter.com'
 d = 'meghdadit.com'
-
+e = 'alibaba.co'
 
 def site_check(line):
     site = re.findall(r'(^.*[\.(://)])*(.+\..+)',line)
