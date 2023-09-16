@@ -140,6 +140,7 @@ while True:
 mojodi_avand = 1
 mojodi_digikala = 1
 mojodi_meghdad = 1
+
 mojodii_khaneyeprinter = 1
 # #Extracting information
 for site in site_list:
